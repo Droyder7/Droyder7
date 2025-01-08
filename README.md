@@ -1,7 +1,7 @@
 - 👋 Hi, This is @Droyder7
-- 👀 Technology Addict
+- 👀 Technology Enthusiast
 - 🌱 Currently developing Mobile Apps in Flutter with Ktor as Backend
-- 💞️ Interested in Blockchain Development
+- 💞️ Interested in creative AI applications
 - 📫 Reach me by dipangshu.official@gmail.com
 
 <!---
